@@ -1,0 +1,24 @@
+2018-09-06 14:42:31,424 - Test1000 - app.py - post - ERROR - No data found
+2018-09-06 14:42:31,441 - Test1000 - app.py - post - ERROR - error 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2018-09-06 14:43:21,086 - Test1000 - app.py - post - ERROR - No data found
+2018-09-06 14:43:21,086 - Test1000 - app.py - post - ERROR - error 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2018-09-06 14:44:56,837 - Test1000 - app.py - post - ERROR - No data found
+2018-09-06 14:44:56,842 - Test1000 - app.py - post - ERROR - error 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2018-09-06 14:46:52,669 - Test1000 - app.py - post - ERROR - No data found
+2018-09-06 14:46:52,669 - Test1000 - app.py - post - ERROR - error 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2018-09-06 14:52:53,104 - Test1000 - app.py - post - ERROR - No data found
+2018-09-06 14:52:53,104 - Test1000 - app.py - post - ERROR - error 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2018-09-06 14:54:19,487 - Test1000 - app.py - post - ERROR - No data found
+2018-09-06 14:54:19,491 - Test1000 - app.py - post - ERROR - error 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2018-09-06 14:54:37,485 - Test1000 - app.py - post - ERROR - No data found
+2018-09-06 14:54:37,488 - Test1000 - app.py - post - ERROR - error 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2018-09-06 14:55:00,048 - Test1000 - app.py - post - ERROR - No data found
+2018-09-06 14:55:00,054 - Test1000 - app.py - post - ERROR - error 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2018-09-06 14:55:14,670 - Test1000 - app.py - post - ERROR - No data found
+2018-09-06 14:55:14,676 - Test1000 - app.py - post - ERROR - error 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2018-09-06 15:00:25,362 - Test1000 - app.py - post - ERROR - No data found
+2018-09-06 15:00:25,363 - Test1000 - app.py - post - ERROR - error 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2018-09-06 15:09:18,689 - Test1000 - app.py - post - ERROR - No data found
+2018-09-06 15:09:18,696 - Test1000 - app.py - post - ERROR - error 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2018-09-06 15:37:24,628 - Test1000 - app.py - post - INFO - {'A': 2, 'B': 64}
+2018-09-06 15:43:22,686 - Test1000 - app.py - post - INFO - {'A': 2, 'B': 64}
